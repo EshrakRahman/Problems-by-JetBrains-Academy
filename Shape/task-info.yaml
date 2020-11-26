@@ -10,9 +10,9 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2297#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed test #4 of 5. Wrong answer
-  time: Thu, 26 Nov 2020 09:22:21 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2297#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 26 Nov 2020 09:31:59 UTC
 record: -1

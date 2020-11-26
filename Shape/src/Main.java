@@ -18,6 +18,7 @@ class Main {
                 break;
             case 4:
                 System.out.println("You have chosen a rhombus");
+                break;
             default:
                 System.out.println("There is no such shape!");
                 break;
